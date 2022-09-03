@@ -1,0 +1,11 @@
+/venv/
+/log.html
+/output.xml
+/report.html
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/robot_framework.iml
+/.idea/vcs.xml
